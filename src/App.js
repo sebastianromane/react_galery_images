@@ -11,7 +11,7 @@ function App() {
     <div className="fondo">
       
       <div className="head">
-      <img className="imgGif" src="https://i.pinimg.com/originals/84/15/56/841556cbcbe36961fddec58ed635fec2.gif" alt="homeMovingGif"></img>
+      <img className="imgGif" src="https://rb.gy/uvajsp" alt="homeMovingGif"></img>
       <Header title="Galery of your Home with React" />
       </div>
       
@@ -19,7 +19,7 @@ function App() {
       <div className="container">
         <div className="galeria">
           <Cards
-            image="https://static8.depositphotos.com/1041088/987/i/950/depositphotos_9874210-stock-photo-american-country-farm-luxury-house.jpg"
+            image="https://rb.gy/sob25h"
             title="Modelo 1"
             description="Casa campestre"
           />
@@ -27,7 +27,7 @@ function App() {
 
         <div className="galeria">
           <Cards
-            image="https://static9.depositphotos.com/1041088/1184/i/950/depositphotos_11842757-stock-photo-large-american-beautiful-house-with.jpg"
+            image="https://rb.gy/binarr"
             title="Modelo 2"
             description="Casa citadina"
           />
@@ -35,7 +35,7 @@ function App() {
 
         <div className="galeria">
           <Cards
-            image="https://static8.depositphotos.com/1041088/987/i/950/depositphotos_9874420-stock-photo-american-country-farm-luxury-house.jpg"
+            image="https://rb.gy/gja7vd"
             title="Modelo 3"
             description="Casa tipo granja"
           />

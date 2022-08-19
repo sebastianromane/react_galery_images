@@ -1,0 +1,71 @@
+/* css styles are inserted */
+body{
+    background-image: url(https://images2-mega.cdn.mdstrm.com/meganoticias/2020/09/11/_313217_1_5f5b84f779b03.jpg?d=950x535);
+    background-size: 100%;
+  }
+  
+  svg {
+    stroke: currentcolor;
+    fill: currentcolor;
+    stroke-width: 0;
+    height: 2em;
+    width: 2em;
+  }
+  
+  .head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5%;
+    height: 18%;
+    color: rgba(0, 123, 255, 0.674);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(255, 217, 0, 0.366);
+  }
+  
+  .fondo{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 100vh;
+  }
+  
+  .container{
+    display:flex;
+    align-items: center;
+    height: 90vh;
+  }
+  
+  h1{
+    text-align: center;
+  }
+  
+  img{
+  width: 5%;
+  height: 5%;
+  }
+  
+  .imgGif{
+    width: 15%;
+    height: 80%;
+    border-radius: 55%;
+  }
+  
+  span{
+    color:black;
+    font-size: 130%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  footer{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    background-color:#84a59d6c;
+  }
+  
+  
+  .galeria{
+    margin: 4%;
+    text-align: center;  
+  }
